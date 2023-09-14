@@ -12,6 +12,18 @@ class utils:
             return reversed
 
 
-input = input("Please enter a number to reverse: ")
-num = utils.reverse(input)
-print(num)
+    def formatter(number):
+        try:
+            check = int(number)
+
+        except:
+            print("Please enter an integer, invalid input!")
+        
+        else:
+            
+            return bin(check), oct(check)
+            
+
+input = input("Please enter an integer: ")
+num_binary = utils.formatter(input)
+print(num_binary)
