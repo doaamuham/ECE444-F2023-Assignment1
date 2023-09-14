@@ -13,5 +13,21 @@
 
 ![merged](https://github.com/doaamuham/ECE444-F2023-Assignment1/assets/126016494/bee3a72a-730e-4a26-a6a2-82eab1ccb3af)
 
+![added formatter](https://github.com/doaamuham/ECE444-F2023-Assignment1/assets/126016494/70798fd5-472b-4012-ad23-652d89bb192a)
+
+![added reversed](https://github.com/doaamuham/ECE444-F2023-Assignment1/assets/126016494/67fafbe8-4412-41ed-b55d-37628a4129d8)
+
+![git log](https://github.com/doaamuham/ECE444-F2023-Assignment1/assets/126016494/912c94e8-19ff-4f19-b7a1-020017f28ded)
+
+![test commit](https://github.com/doaamuham/ECE444-F2023-Assignment1/assets/126016494/a484d1e2-3f79-4ec9-a677-5ec627ef7695)
+
+![tests](https://github.com/doaamuham/ECE444-F2023-Assignment1/assets/126016494/97a5d5f4-8a00-4c40-9e8c-01755d654434)
+
+![push](https://github.com/doaamuham/ECE444-F2023-Assignment1/assets/126016494/76e3adb8-473e-42ca-896e-9cce93657e80)
+
+
+
+
+
 
 
