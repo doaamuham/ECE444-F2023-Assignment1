@@ -25,8 +25,6 @@
 
 ![push](https://github.com/doaamuham/ECE444-F2023-Assignment1/assets/126016494/76e3adb8-473e-42ca-896e-9cce93657e80)
 
-![c1](https://github.com/doaamuham/ECE444-F2023-Assignment1/assets/126016494/a6716de6-f76c-4841-a50d-b80994ba9591)
-
 ![c2](https://github.com/doaamuham/ECE444-F2023-Assignment1/assets/126016494/e9ca316a-6d29-4584-a46f-2e7df0a5c445)
 
 ![switch to dev](https://github.com/doaamuham/ECE444-F2023-Assignment1/assets/126016494/144bcf76-c919-4e0c-8749-10308bf932e5)
